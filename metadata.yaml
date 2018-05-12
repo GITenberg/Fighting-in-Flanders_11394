@@ -1,5 +1,8 @@
 _repo: Fighting-in-Flanders_11394
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Powell, E. Alexander (Edward Alexander)
@@ -17,6 +20,8 @@ description: Readers who appreciate top-notch chronicles of battlefield conflict
   a closer look at the emerging conflict. He put his experience to good use reporting
   on the new military technologies that came into play during the early months of
   World War I.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11394#Fighting-in-Flanders
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
